@@ -14,4 +14,9 @@ public class MainActivity extends AppCompatActivity {
     public void test() {
         // TODO:
     }
+
+    public void testAAA(){
+        //developer aaa
+    }
+
 }
